@@ -1,7 +1,7 @@
 package com.mycompany.app;
 
 /**
- * Hello world From Master Branch!!!
+ * Hello world From Feature-1 Branch!!!
  *
  */
 public class App 
